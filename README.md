@@ -1,2 +1,2 @@
 # Web16H
-HTML CSS and JS homework J16
+**HTML, CSS and JS homework**
